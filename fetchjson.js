@@ -11,15 +11,7 @@ setInterval(() => {
         return
       }
   })
-  const fs = require('fs')
-
-const content = 
-fs.writeFile('./data.json', content, err => {
-  if (err) {
-    console.error(err)
-    return
-  }
   //file written successfully
-})
+  console.log('Fetch Complete')
 })
 }, 2000)
