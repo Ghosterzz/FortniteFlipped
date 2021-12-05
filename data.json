@@ -1,6 +1,6 @@
 {
-    "progress": 50,
-    "mapUrl": "/kir/277981c288f5cf668ee5804e1f6007e7.jpg",
+    "progress": 61,
+    "mapUrl": "/kir/fb78bdf1fcb2d007c42d8bfa3af01b52.jpg",
     "zoomAreas": [
     {
     "xc": 0.3,
@@ -48,6 +48,18 @@
     "top": "63%",
     "width": "41%",
     "height": "34%"
+    }
+    },
+    {
+    "xc": 0,
+    "yc": 0.9,
+    "scale": 3,
+    "style": {
+    "clipPath": "polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
+    "left": "2%",
+    "top": "33%",
+    "width": "30%",
+    "height": "30%"
     }
     }
     ]
