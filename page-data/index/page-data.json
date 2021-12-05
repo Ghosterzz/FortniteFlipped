@@ -1,0 +1,46 @@
+{
+    "componentChunkName": "component---src-pages-index-tsx",
+    "path": "/",
+    "result": {
+    "data": {
+    "locales": {
+    "edges": [
+    {
+    "node": {
+    "ns": "translation",
+    "data": "{\"Hero.Uncover\":\"UNCOVER THE ISLAND\",\"Hero.Subtitle\":\"FLIP YOUR WORLD AND A NEW ONE WILL BE REVEALED\",\"Hero.SubtitleBr\":\"FLIP YOUR WORLD AND <br/>A NEW ONE WILL BE REVEALED\",\"Hero.Flip\":\"SEE YOU ON THE FLIP SIDE\",\"Social.Body\":\"USE #FORTNITEFLIPPED, FLIP YOUR SOCIAL PROFILE AND POSTS, AND WORK TOGETHER TO REVEAL THE NEW ISLAND.\",\"Footer.Legal\":\"© 2021, Epic Games, Inc. Epic, Epic Games, the Epic Games logo, Fortnite, the Fortnite logo, Unreal, Unreal Engine 4 and UE4 are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere. All rights reserved.\",\"Hero.Loading\":\"LOADING…\",\"Hero.Download\":\"DOWNLOAD\",\"Social.JoinTheFlip\":\"JOIN THE FLIP TO REVEAL\"}",
+    "language": "en-US"
+    }
+    }
+    ]
+    }
+    },
+    "pageContext": {
+    "language": "en-US",
+    "i18n": {
+    "language": "en-US",
+    "languages": [
+    "ar",
+    "de",
+    "en-US",
+    "es-MX",
+    "es-ES",
+    "fr",
+    "it",
+    "ja",
+    "ko",
+    "pl",
+    "pt-BR",
+    "ru",
+    "tr"
+    ],
+    "defaultLanguage": "en-US",
+    "generateDefaultLanguagePage": true,
+    "routed": false,
+    "originalPath": "/",
+    "path": "/"
+    }
+    }
+    },
+    "staticQueryHashes": []
+    }

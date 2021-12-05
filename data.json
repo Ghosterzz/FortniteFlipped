@@ -1,0 +1,54 @@
+{
+    "progress": 46,
+    "mapUrl": "/kir/277981c288f5cf668ee5804e1f6007e7.jpg",
+    "zoomAreas": [
+    {
+    "xc": 0.3,
+    "yc": 0.1,
+    "scale": 3,
+    "style": {
+    "clipPath": "polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
+    "left": "0%",
+    "top": "0%",
+    "width": "41%",
+    "height": "34%"
+    }
+    },
+    {
+    "xc": 2,
+    "yc": 1.2,
+    "scale": 3,
+    "style": {
+    "clipPath": "polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
+    "left": "59%",
+    "top": "43%",
+    "width": "41%",
+    "height": "34%"
+    }
+    },
+    {
+    "xc": 1.1,
+    "yc": 0,
+    "scale": 3,
+    "style": {
+    "clipPath": "polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
+    "left": "25%",
+    "top": "0%",
+    "width": "41%",
+    "height": "34%"
+    }
+    },
+    {
+    "xc": 0.3,
+    "yc": 1.8,
+    "scale": 3,
+    "style": {
+    "clipPath": "polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
+    "left": "2%",
+    "top": "63%",
+    "width": "41%",
+    "height": "34%"
+    }
+    }
+    ]
+    }
